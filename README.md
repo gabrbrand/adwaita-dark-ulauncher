@@ -1,6 +1,6 @@
-# Adwaita Dark Ulaucher
+# Adwaita Dark Ulauncher
 
-A ulaucher theme based on the built-in [Adwaita](https://github.com/Ulauncher/Ulauncher/tree/v5/data/themes/adwaita) theme.
+A ulauncher theme based on the built-in [Adwaita](https://github.com/Ulauncher/Ulauncher/tree/v5/data/themes/adwaita) theme.
 
 ![](adwaita-dark.png)
 
