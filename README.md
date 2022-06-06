@@ -7,7 +7,6 @@ A ulauncher theme based on the built-in [Adwaita](https://github.com/Ulauncher/U
 ## Installation
 
 ```bash
-mkdir -p ~/.config/ulauncher/user-themes
-cd ~/.config/ulauncher/user-themes
-git clone https://github.com/gabrbrand/adwaita-dark-ulaucher.git
+mkdir -p ~/.config/ulauncher/user-themes ~/.config/ulauncher/user-themes/adwaita-dark-ulaucher
+git clone https://github.com/gabrbrand/adwaita-dark-ulaucher.git ~/.config/ulauncher/user-themes/adwaita-dark-ulaucher
 ```
